@@ -1,0 +1,7 @@
+h1{color:navy;background-color:yellow;}
+body{background-color:lightgrey;}
+li{background-color:orange}
+li:nth-child(4){background-color:pink;}
+#make-me-orange{background-color:lightblue;}
+.red{background-color:red;}
+img{width:100%}
